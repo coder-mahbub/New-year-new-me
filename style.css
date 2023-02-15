@@ -1,0 +1,186 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+
+/* Banner styles */
+.banner {
+    background-image: url(/images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 808px;
+    text-align: right;
+
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    padding: 216px 230px 24px 845px;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 24px 230px 32px 876px;
+}
+
+.btn-orange {
+    background-color: #F15B22;
+    width: 160px;
+    height: 64px;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    padding: ;
+    margin: 32px 230px 166px 1210px;
+    color: #FFFFFF;
+}
+
+/* 
+My failures of previous year styles */
+.content-pastyear {
+    display: flex;
+    margin: 131px 322px 129px 206px;
+   
+}
+
+.img-person {
+    padding-right: 87px;
+}
+
+.content{
+padding-left: 87px;
+}
+.content-title {
+    margin-top: 239px;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+    
+}
+.content-description{
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+margin-bottom: 16px;
+}
+/* Plans styles */
+.my-plans{
+    display: flex;
+text-align: center;
+padding-left: 130px;
+padding-right: 230px;
+
+}
+.improve{
+    padding: 130px;
+}
+.plans-content{
+    color: #151414;
+    margin: 130px 710px 50px 710px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.watch{
+    background-image: url(./images/gradient3.png), url(./images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    width: 1140px;
+height: 300px;
+margin: 130px auto;
+}
+.watch-title{
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 59px 617px 24px 64px;
+}
+.btn-call{
+    width: 160px;
+height: 64px;
+color: #F15B22;
+text-align: center;
+border: none;
+margin-left: 64px;
+font-weight: 600;
+font-size: 20px;
+
+}
+
+/* Footer Styles */
+.future-contact{
+    margin-left: 230px;
+    color: #FFFFFF;
+}
+footer{
+ width: 100%;
+height: 577px;
+
+background: #151414;
+display: flex;
+
+}
+footer .title{
+   
+    font-size: 45px;
+    padding-top: 130px;
+    padding-bottom: 16px;
+}
+footer .description{
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 24px;
+    
+    padding-right: 331px;
+}
+footer .contact{
+    
+    font-size: 16px;
+    padding-bottom: 16px;
+
+}
+.sm{
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-top: 32px;
+}
+.Subscribe{
+    margin-top: 130px;
+    
+}
+.sub{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 25px;
+margin-right: 431px;
+margin-top: 130px;
+
+}
+.email{
+    background: #151414;
+    margin-top: 31px;
+    height: 64px;
+    width: 325px;
+    color: #F3F3F3;
+    font-weight: 400;
+font-size: 18px;
+padding: 21px 158px 21px 21px;
+border-radius: 8px;
+border: 1px solid #FFFFFF;
+}
+.submit{
+    margin-top: 16px;
+    background: #FFFFFF;
+border-radius: 8px;
+width: 170.11px;
+height: 64px;
+color: #F15B22;
+font-weight: 600;
+font-size: 20px;
+padding: 20px 36px;
+
+}
